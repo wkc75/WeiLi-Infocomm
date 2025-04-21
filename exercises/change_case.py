@@ -25,3 +25,6 @@ def  change_case(s):
     return result
 
 print(change_case("AbCdEfG"))
+
+
+
